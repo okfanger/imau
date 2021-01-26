@@ -1,2 +1,2 @@
 # imau
-A repository that records my whole life for learning programme in Inner Mongolia Agricultural University.
+A repository that records my whole life for learning to program in Inner Mongolia Agricultural University.
